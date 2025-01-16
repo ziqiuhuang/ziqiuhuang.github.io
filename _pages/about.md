@@ -14,7 +14,7 @@ Education
 <img style="float: left; margin:5px 10px" src="../images/IMPERIAL_logo_RGB_Blue_safe_area_2024.png" width="180" height="130">
 ### Imperial College London
 <p style="line-height:1.0">
-<font size="3">
+<font size="2">
 Oct 2024 - Present
 
 </font>
@@ -23,7 +23,7 @@ Oct 2024 - Present
 <img style="float: left; margin:5px 10px" src="../images/IMPERIAL_logo_RGB_Blue_safe_area_2024.png" width="180" height="130">
 ### Imperial College London
 <p style="line-height:1.0">
-<font size="3">
+<font size="2">
 Oct 2019 - Jun 2023<br />
 M.Eng. in Materials Science and Engineering<br />
 </font>
@@ -40,5 +40,8 @@ TBD
 Teaching
 ------
 Graduate Teaching Assistant<br />
+<font size="2">
 Spring 2025<br />
 MATE40006 Lab H, Fracture Mechanics 
+</font>
+</p>
