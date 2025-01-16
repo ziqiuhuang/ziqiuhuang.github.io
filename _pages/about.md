@@ -38,7 +38,7 @@ Awards
 ------
 TBD
 
-Teaching
+Teachings
 ------
 ### Graduate Teaching Assistant
 <p style="line-height:1.0">
