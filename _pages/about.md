@@ -15,8 +15,8 @@ Education
 ### Imperial College London
 <p style="line-height:1.0">
 <font size="2">
-* Oct 2024 - Present
-  * Ph.D. in Materials Research
+∙ Oct 2024 - Present<br />
+  ∙ Ph.D. in Materials Research
 </font>
 </p>
 -----
@@ -24,9 +24,9 @@ Education
 ### Imperial College London
 <p style="line-height:1.0">
 <font size="2">
-* Oct 2019 - Jun 2023
-  * M.Eng. in Materials Science and Engineering
-  * The UK Integrated Master Degree with First Class Honours
+∙ Oct 2019 - Jun 2023<br />
+  ∙ M.Eng. in Materials Science and Engineering<br />
+  ∙ The UK Integrated Master Degree with First Class Honours
 </font>
 </p>
 
@@ -40,6 +40,4 @@ TBD
 
 Teaching
 ------
-Graduate Teaching Assistant
-* Spring 2025
-  * MATE40006 Lab H, Fracture Mechanics
+∙ Graduate Teaching Assistant: MATE40006 Lab H, Fracture Mechanics, Spring 2025
