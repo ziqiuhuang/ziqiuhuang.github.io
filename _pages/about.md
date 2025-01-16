@@ -16,7 +16,7 @@ Education
 <p style="line-height:1.0">
 <font size="2">
 Oct 2024 - Present
-
+Ph.D. in Materials Research<br />
 </font>
 </p>
 -----
@@ -26,6 +26,7 @@ Oct 2024 - Present
 <font size="2">
 Oct 2019 - Jun 2023<br />
 M.Eng. in Materials Science and Engineering<br />
+The UK integrated master degree with First Class Honours
 </font>
 </p>
 
@@ -39,9 +40,8 @@ TBD
 
 Teaching
 ------
-Graduate Teaching Assistant<br />
+Graduate Teaching Assistant
 <font size="2">
 Spring 2025<br />
 MATE40006 Lab H, Fracture Mechanics 
 </font>
-</p>
