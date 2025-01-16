@@ -45,3 +45,9 @@ Graduate Teaching Assistant
 Spring 2025<br />
 MATE40006 Lab H, Fracture Mechanics 
 </font>
+
+  <p><strong>Graduate Teaching Assistant</strong></p>
+  <p class="teaching-details">
+    Spring 2025<br />
+    MATE40006 Lab H, Fracture Mechanics
+  </p>
