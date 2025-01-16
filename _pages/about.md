@@ -25,8 +25,8 @@ Education
 <p style="line-height:1.0">
 <font size="2">
 ∙ Oct 2019 - Jun 2023<br />
-  ∙ M.Eng. in Materials Science and Engineering<br />
-  ∙ The UK Integrated Master Degree with First Class Honours
+&nbsp;&nbsp;∙ M.Eng. in Materials Science and Engineering<br />
+&nbsp;&nbsp;∙ The UK Integrated Master Degree with First Class Honours
 </font>
 </p>
 
