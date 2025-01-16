@@ -11,14 +11,14 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Education
 ------
-Imperial College London
+[Imperial College London](IMPERIAL_logo_RGB_Blue_safe_area_2024.png)
 
 Oct 2024 - Present
 
 PhD - Materials Research
 
 
-Imperial College London
+[Imperial College London](IMPERIAL_logo_RGB_Blue_safe_area_2024.png)
 
 Oct 2019 - Jun 2023
 
