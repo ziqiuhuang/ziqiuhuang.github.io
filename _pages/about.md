@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 Hi, my name is Ziqiu. You can also call me Chico (Tsz-kau) if you speak Cantonese! I was born and raised in Shenzhen, China and moved to the UK to start my undergraduate degree in Materials Science and Engineering at Imperial College London. I am currently a first year PhD student in the Department of Materials at Imperial College London. I am fortunate to be supervised by [Prof. Mark Oxborrow](https://scholar.google.com/citations?user=Rtv9NSUAAAAJ&hl=en&oi=ao) and [Dr. Max Attwood](https://scholar.google.com/citations?user=ybK5DuQAAAAJ&hl=en&oi=ao). in the [MASER](https://www.imperial.ac.uk/maser/) group.<br /> 
+
 My research interests include room temperature microwave devices and the design of spin selective molecules for quantum applications. These include host-guest single crystals, charge transfer cocrystals and photoexcited chromophore radical systems. All of these molecular qubit designs are aimed at improving quantum sensing, computing and communication. They will all be combined with electron paramagnetic resonance (EPR), which is one of the main experimental techniques used in molecular quantum information science.<br /> 
-You can find my contact details in the bios. 
+
+You can find my contact details in my bios. 
 
 Education
 -----
