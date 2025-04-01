@@ -47,7 +47,7 @@ Graduate Teaching Assistant
 <p style="line-height:1.0">
 <font size="2">
 ∙ Spring 2025 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;∙ MATE40006 Lab H, Fracture Mechanics
+&nbsp;&nbsp;&nbsp;&nbsp;∙ MATE40006 Lab H, Fracture Mechanics<br />
 ∙ Summer 2025 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;∙ MATE40004 Lab I, Steels Jominy Quench
 </font>
