@@ -35,7 +35,7 @@ Education
 
 Publications
 ------
-TBD
+Mann, S. K., Cowley-Semple, A., Bryan, E., Huang, Z., Heutz, S., Attwood, M., & Bayliss, S. L. (2025). Chemically Tuning Room Temperature Pulsed Optically Detected Magnetic Resonance. arXiv preprint arXiv:2503.24341.
 
 Awards
 ------
@@ -49,6 +49,6 @@ Graduate Teaching Assistant
 ∙ Spring 2025 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;∙ MATE40006 Lab H, Fracture Mechanics<br />
 ∙ Summer 2025 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;∙ MATE40004 Lab I, Steels Jominy Quench
+&nbsp;&nbsp;&nbsp;&nbsp;∙ MATE40002 Lab I, Steels Jominy Quench
 </font>
 </p>
