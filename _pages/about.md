@@ -37,7 +37,7 @@ Publications
 ------
 <p style="line-height:1.0">
 <font size="2">
-[1] Mann, S. K., Cowley-Semple, A., Bryan, E., Huang, Z., Heutz, S., Attwood, M., & Bayliss, S. L. (2025). Chemically Tuning Room Temperature Pulsed Optically Detected Magnetic Resonance. arXiv preprint arXiv:2503.24341.
+[1] Mann, Sarah K., et al. "Chemically Tuning Room Temperature Pulsed Optically Detected Magnetic Resonance." Journal of the American Chemical Society (2025).
 </font> 
 </p>
 
