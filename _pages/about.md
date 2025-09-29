@@ -44,6 +44,8 @@ Publications
 Awards
 ------
 ICoNYCh Exchange Award <br />
+<p style="line-height:1.0">
+<font size="2">
 ∙ building links between researchers at Imperial College London and researchers in the Chicago Quantum Exchange and emerging New York quantum ecosystem
 
 Teaching
