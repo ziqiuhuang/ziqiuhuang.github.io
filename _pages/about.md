@@ -43,19 +43,27 @@ Publications
 
 Awards
 ------
-TBD
+ICoNYCh Exchange Award <br />
+∙ building links between researchers at Imperial College London and researchers in the Chicago Quantum Exchange and emerging New York quantum ecosystem
 
 Teaching
 ------
 Graduate Teaching Assistant
-<p style="line-height:1.0">
-<font size="2">
-∙ Autumn 2025 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;∙ MATE40004 Structure 1, Cooling Curve /> 
-&nbsp;&nbsp;&nbsp;&nbsp;∙ MATE60002/70002 Theory and Simulation of Materials, COMSOL />
-∙ Summer 2025 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;∙ MATE40002 Lab I, Steels Jominy Quench />
-∙ Spring 2025 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;∙ MATE40006 Lab H, Fracture Mechanics<br 
-</font>
-</p>
+<ul style="line-height:1.4; font-size:12px; margin:0; padding-left:15px;">
+  <li><strong>Autumn 2025</strong>
+    <ul>
+      <li>MATE40004 Structure 1 — Cooling Curve</li>
+      <li>MATE60002/70002 Theory and Simulation of Materials — COMSOL</li>
+    </ul>
+  </li>
+  <li><strong>Summer 2025</strong>
+    <ul>
+      <li>MATE40002 Lab I — Steels Jominy Quench</li>
+    </ul>
+  </li>
+  <li><strong>Spring 2025</strong>
+    <ul>
+      <li>MATE40006 Lab H — Fracture Mechanics</li>
+    </ul>
+  </li>
+</ul>
