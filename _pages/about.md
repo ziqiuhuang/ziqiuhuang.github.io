@@ -16,37 +16,41 @@ Education
 -----
 <img style="float: left; margin:5px 10px" src="../images/IMPERIAL_logo_RGB_Blue_safe_area_2024.png" width="180" height="130">
 ### Imperial College London
-<p style="line-height:1.0">
-<font size="2">
-∙ Oct 2024 - Present<br />
-&nbsp;&nbsp;&nbsp;&nbsp;∙ Ph.D. in Materials Research
-</font>
-</p>
+<ul style="line-height:1.4; font-size:12px; margin:0; padding-left:15px;">
+  <li>Oct 2024 – Present
+    <ul>
+      <li>Ph.D. in Materials Research</li>
+    </ul>
+  </li>
+</ul>
+
 -----
 <img style="float: left; margin:5px 10px" src="../images/IMPERIAL_logo_RGB_Blue_safe_area_2024.png" width="180" height="130">
 ### Imperial College London
-<p style="line-height:1.0">
-<font size="2">
-∙ Oct 2019 - Jun 2023<br />
-&nbsp;&nbsp;&nbsp;&nbsp;∙ M.Eng. in Materials Science and Engineering<br />
-&nbsp;&nbsp;&nbsp;&nbsp;∙ The UK Integrated Master Degree with First Class Honours
-</font> 
-</p>
+<ul style="line-height:1.4; font-size:12px; margin:0; padding-left:15px;">
+  <li>Oct 2019 – Jun 2023
+    <ul>
+      <li>M.Eng. in Materials Science and Engineering</li>
+      <li>The UK Integrated Master Degree with First Class Honours</li>
+    </ul>
+  </li>
+</ul>
 
 Publications
 ------
-<p style="line-height:1.0">
-<font size="2">
-[1] Mann, Sarah K., et al. "Chemically Tuning Room Temperature Pulsed Optically Detected Magnetic Resonance." Journal of the American Chemical Society (2025).
-</font> 
-</p>
+<ul style="line-height:1.4; font-size:12px; margin:0; padding-left:15px;">
+  <li>[1] Mann, Sarah K., et al. "Chemically Tuning Room Temperature Pulsed Optically Detected Magnetic Resonance." <i>Journal of the American Chemical Society</i> (2025).</li>
+</ul>
 
 Awards
 ------
-ICoNYCh Exchange Award <br />
-<p style="line-height:1.0">
-<font size="2">
-∙ building links between researchers at Imperial College London and researchers in the Chicago Quantum Exchange and emerging New York quantum ecosystem
+<ul style="line-height:1.4; font-size:12px; margin:0; padding-left:15px;">
+  <li>ICoNYCh Exchange Award
+    <ul>
+      <li>Building links between researchers at Imperial College London and researchers in the Chicago Quantum Exchange and emerging New York quantum ecosystem</li>
+    </ul>
+  </li>
+</ul>
 
 Teaching
 ------
