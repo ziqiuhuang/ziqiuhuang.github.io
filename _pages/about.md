@@ -59,7 +59,8 @@ Graduate Teaching Assistant
   <li><strong>Autumn 2025</strong>
     <ul>
       <li>MATE40004 Structure 1 — Cooling Curve</li>
-      <li>MATE60002/70002 Theory and Simulation of Materials — COMSOL</li>
+      <li>MATE50005 Materials Characterisation — Spectroscopy</li>
+      <li>MATE60002 Theory and Simulation of Materials — COMSOL</li>
     </ul>
   </li>
   <li><strong>Summer 2025</strong>
