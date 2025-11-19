@@ -80,4 +80,3 @@ Conference Attendance
 <ul style="line-height:1.4; font-size:12px; margin:0; padding-left:15px;">
   <li>The 13th Microwave Materials and their Applications, Saint-Brieuc, France, 2025
   <li>The 21st European Magnetic Resonance Congress, Oulu, Finland, 2025  
-</ul>
