@@ -82,6 +82,8 @@ Graduate Teaching Assistant
 Conference Attendance
 ------
 <ul style="line-height:1.4; font-size:12px; margin:0; padding-left:15px;">
-  <li>The 13th Microwave Materials and their Applications, Saint-Brieuc, France, Sep 2025
-  <li>The 21st European Magnetic Resonance Congress, Oulu, Finland, Jul 2025  
-  <li>The M4QN PhD summer school, Manchester, UK, Jun 2025
+  <li>The 13th Microwave Materials and their Applications, Saint-Brieuc, France, Sep 2025</li>
+  <li>The 21st European Magnetic Resonance Congress, Oulu, Finland, Jul 2025</li>
+  <li>The M4QN PhD summer school, Manchester, UK, Jun 2025</li>
+</ul>
+
