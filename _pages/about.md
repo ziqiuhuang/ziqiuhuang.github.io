@@ -58,7 +58,7 @@ Graduate Teaching Assistant
 <ul style="line-height:1.4; font-size:12px; margin:0; padding-left:15px;">
   <li><strong>Spring 2026</strong>
   <ul>
-      <li>MATE40002 Lab H — Fracture Mechanics</li>
+      <li>MATE40006 Lab H — Fracture Mechanics</li>
   </ul>
   <li><strong>Autumn 2025</strong>
     <ul>
