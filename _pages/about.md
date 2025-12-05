@@ -56,10 +56,13 @@ Teaching
 ------
 Graduate Teaching Assistant
 <ul style="line-height:1.4; font-size:12px; margin:0; padding-left:15px;">
+
   <li><strong>Spring 2026</strong>
-  <ul>
+    <ul>
       <li>MATE40006 Lab H — Fracture Mechanics</li>
-  </ul>
+    </ul>
+  </li>
+
   <li><strong>Autumn 2025</strong>
     <ul>
       <li>MATE40004 Lab D — Cooling Curve</li>
@@ -67,16 +70,19 @@ Graduate Teaching Assistant
       <li>MATE60002 Theory and Simulation of Materials — COMSOL</li>
     </ul>
   </li>
+
   <li><strong>Summer 2025</strong>
     <ul>
       <li>MATE40002 Lab I — Steels Jominy Quench</li>
     </ul>
   </li>
+
   <li><strong>Spring 2025</strong>
     <ul>
       <li>MATE40006 Lab H — Fracture Mechanics</li>
     </ul>
   </li>
+
 </ul>
 
 Conference Attendance
