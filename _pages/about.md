@@ -39,9 +39,9 @@ Education
 Publications
 ------
 <ul style="line-height:1.4; font-size:12px; margin:0; padding-left:15px;">
-  <li>[1] Liu, Mingyang, et al. "Scaleable LED-pumped Room-temperature Maser using a Multi-blade Optical Injector." <i>arXiv preprint arXiv:2601.06008<i> (2026).</li>
+  <li>[1] Liu, Mingyang, et al. "Scaleable LED-pumped Room-temperature Maser using a Multi-blade Optical Injector." <i>arXiv preprint arXiv:2601.06008</i> (2026).</li>
   <li>[2] Newns, Michael, et al. "Single-LED-pumped, room-temperature, solid-state maser." <i>arXiv preprint arXiv:2512.20611</i> (2025).</li>
-  <li>[3] Mann, Sarah K., et al. "Chemically Tuning Room Temperature Pulsed Optically Detected Magnetic Resonance." <i>Journal of the American Chemical Society 147.26 (2025).</li>
+  <li>[3] Mann, Sarah K., et al. "Chemically Tuning Room Temperature Pulsed Optically Detected Magnetic Resonance." <i>Journal of the American Chemical Society 147.26</i> (2025).</li>
 </ul>
 
 Awards
