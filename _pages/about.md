@@ -60,6 +60,14 @@ Teaching
 Graduate Teaching Assistant
 <ul style="line-height:1.4; font-size:12px; margin:0; padding-left:15px;">
 
+  <li><strong>Autumn 2026</strong>
+    <ul>
+      <li>MATE40004 Lab D — Cooling Curve</li>
+      <li>MATE50005 Materials Characterisation — Spectroscopy</li>
+      <li>MATE60002 Theory and Simulation of Materials — COMSOL</li>
+    </ul>
+  </li>
+  
   <li><strong>Summer 2026</strong>
     <ul>
       <li>MATE50003 - Engineering Practice - Case Study</li>
